@@ -1,0 +1,501 @@
+pos_txn_id,sku_id,txn_date,quantity_sold,store_id,region,source
+1,SKU-My271,2026-01-19,2,STORE-27,Oregon,pos_system
+2,SKU-Lw191,2025-12-23,13,STORE-28,Rhode Island,pos_system
+3,SKU-EZ203,2026-01-15,11,STORE-42,Georgia,pos_system
+4,SKU-Rq512,2025-12-28,10,STORE-5,Idaho,pos_system
+5,SKU-Ii336,2025-12-31,12,STORE-49,Colorado,pos_system
+6,SKU-INVALID,2026-01-20,9,STORE-43,Wyoming,pos_system
+7,SKU-zo215,2025-12-26,1,STORE-50,Kentucky,pos_system
+8,SKU-YT892,2026-01-16,10,STORE-31,Arkansas,pos_system
+9,SKU-Lw191,2025-12-28,15,STORE-26,Wyoming,pos_system
+10,SKU-Kd135,2025-12-28,10,STORE-29,Florida,pos_system
+11,SKU-RI926,2026-01-13,14,STORE-39,Louisiana,pos_system
+12,SKU-ir862,2026-01-12,14,STORE-7,Oklahoma,pos_system
+13,SKU-Ii336,2025-12-30,4,STORE-14,Kentucky,pos_system
+14,SKU-jM908,2026-01-10,12,STORE-36,Montana,pos_system
+15,SKU-bc680,2026-01-16,2,STORE-16,Pennsylvania,pos_system
+16,SKU-EZ203,2026-01-07,4,STORE-38,Minnesota,pos_system
+17,SKU-kJ180,2026-01-16,14,STORE-4,Texas,pos_system
+18,SKU-cW269,2025-12-24,11,STORE-7,Wisconsin,pos_system
+19,SKU-gw737,2026-01-01,4,STORE-7,Texas,pos_system
+20,SKU-OE374,2025-12-29,10,STORE-34,Wyoming,pos_system
+21,SKU-Gw555,2026-01-20,1,STORE-27,Nebraska,pos_system
+22,SKU-ir862,2026-01-05,2,STORE-19,North Carolina,pos_system
+23,SKU-Kz406,2025-12-31,11,STORE-40,Nevada,pos_system
+24,SKU-dm706,2025-12-29,4,STORE-22,Mississippi,pos_system
+25,SKU-Lw191,2026-01-19,12,STORE-32,Alabama,pos_system
+26,SKU-bD403,2025-12-28,4,STORE-37,Illinois,pos_system
+27,SKU-Kl808,2025-12-26,11,STORE-34,North Dakota,pos_system
+28,SKU-OK386,2026-01-10,2,STORE-6,Texas,pos_system
+29,SKU-bc680,2026-01-02,10,STORE-1,New Hampshire,pos_system
+30,SKU-Os099,2026-01-14,14,STORE-26,South Carolina,pos_system
+31,SKU-Gq397,2026-01-13,12,STORE-24,Nebraska,pos_system
+32,SKU-OK386,2026-01-09,1,STORE-43,Oregon,pos_system
+33,SKU-Cw787,2026-01-12,12,STORE-19,California,pos_system
+34,SKU-Ii336,2025-12-26,13,STORE-20,Wyoming,pos_system
+35,SKU-zo215,2026-01-18,8,STORE-50,Colorado,pos_system
+36,SKU-zo215,2025-12-29,7,STORE-37,Pennsylvania,pos_system
+37,SKU-Gw555,2026-01-03,13,STORE-38,Nebraska,pos_system
+38,SKU-My271,2026-01-07,4,STORE-45,New Hampshire,pos_system
+39,SKU-INVALID,2026-01-01,6,STORE-8,Oklahoma,pos_system
+40,SKU-Cs979,2025-12-29,1,STORE-5,Colorado,pos_system
+41,SKU-zo215,2026-01-13,11,STORE-8,Arkansas,pos_system
+42,SKU-SB850,2026-01-13,10,STORE-17,Iowa,pos_system
+43,SKU-bH250,2025-12-23,1,STORE-18,Texas,pos_system
+44,SKU-Gw555,2025-12-30,2,STORE-29,Georgia,pos_system
+45,SKU-fj578,2026-01-19,7,STORE-21,Virginia,pos_system
+46,SKU-Gq397,2025-12-26,8,STORE-3,California,pos_system
+47,SKU-SM033,2026-01-03,1,STORE-4,Kansas,pos_system
+48,SKU-xo650,2026-01-18,7,STORE-26,Nebraska,pos_system
+49,SKU-Vj640,2026-01-12,11,STORE-33,New York,pos_system
+50,SKU-lK201,2026-01-10,4,STORE-40,Virginia,pos_system
+51,SKU-eJ664,2026-01-16,14,STORE-2,Hawaii,pos_system
+52,SKU-gw737,2025-12-27,2,STORE-6,Hawaii,pos_system
+53,SKU-Om880,2026-01-14,7,STORE-50,Iowa,pos_system
+54,SKU-sS478,2025-12-27,9,STORE-9,Colorado,pos_system
+55,SKU-Tt192,2026-01-17,1,STORE-10,New Hampshire,pos_system
+56,SKU-Vj640,2026-01-15,11,STORE-29,Mississippi,pos_system
+57,SKU-OK386,2026-01-04,14,STORE-36,Nevada,pos_system
+58,SKU-AJ723,2026-01-11,15,STORE-19,Virginia,pos_system
+59,SKU-OE374,2026-01-04,11,STORE-6,Colorado,pos_system
+60,SKU-Ii336,2026-01-06,13,STORE-16,New Jersey,pos_system
+61,SKU-dm706,2026-01-05,10,STORE-24,Kansas,pos_system
+62,SKU-JZ195,2025-12-25,15,STORE-31,Kentucky,pos_system
+63,SKU-EZ203,2025-12-27,1,STORE-24,North Dakota,pos_system
+64,SKU-INVALID,2026-01-04,1,STORE-45,Alabama,pos_system
+65,SKU-eJ664,2026-01-04,13,STORE-24,Iowa,pos_system
+66,SKU-JZ195,2026-01-17,10,STORE-7,Oklahoma,pos_system
+67,SKU-uE392,2026-01-16,13,STORE-45,Missouri,pos_system
+68,SKU-oE096,2026-01-15,7,STORE-35,Virginia,pos_system
+69,SKU-uE392,2026-01-17,1,STORE-29,New Mexico,pos_system
+70,SKU-lK201,2026-01-03,2,STORE-32,Idaho,pos_system
+71,SKU-OE374,2026-01-18,4,STORE-46,Vermont,pos_system
+72,SKU-hg981,2026-01-01,13,STORE-48,Kansas,pos_system
+73,SKU-Kl808,2026-01-15,11,STORE-39,North Dakota,pos_system
+74,SKU-SM033,2026-01-20,1,STORE-37,Arkansas,pos_system
+75,SKU-YT892,2025-12-30,13,STORE-6,Wyoming,pos_system
+76,SKU-gw737,2025-12-27,11,STORE-6,Washington,pos_system
+77,SKU-cW269,2026-01-13,6,STORE-6,Kansas,pos_system
+78,SKU-uE392,2026-01-09,1,STORE-11,Pennsylvania,pos_system
+79,SKU-cW269,2026-01-13,14,STORE-17,Michigan,pos_system
+80,SKU-Cw787,2025-12-29,15,STORE-50,Florida,pos_system
+81,SKU-ir862,2026-01-21,7,STORE-9,Kentucky,pos_system
+82,SKU-bc680,2026-01-01,6,STORE-14,Illinois,pos_system
+83,SKU-AJ723,2025-12-28,11,STORE-43,Kentucky,pos_system
+84,SKU-HE021,2026-01-09,15,STORE-18,Mississippi,pos_system
+85,SKU-Om880,2025-12-25,6,STORE-20,Kentucky,pos_system
+86,SKU-lK201,2025-12-31,14,STORE-6,Utah,pos_system
+87,SKU-ms236,2025-12-26,4,STORE-7,Maine,pos_system
+88,SKU-JZ195,2026-01-01,12,STORE-44,Alabama,pos_system
+89,SKU-dm706,2026-01-21,6,STORE-30,Missouri,pos_system
+90,SKU-SB850,2025-12-24,11,STORE-50,Oklahoma,pos_system
+91,SKU-kJ180,2026-01-10,14,STORE-39,Wisconsin,pos_system
+92,SKU-Ii336,2026-01-05,12,STORE-33,Idaho,pos_system
+93,SKU-YT892,2026-01-08,6,STORE-27,Louisiana,pos_system
+94,SKU-bD403,2025-12-24,13,STORE-14,Arkansas,pos_system
+95,SKU-My271,2026-01-13,13,STORE-6,Arizona,pos_system
+96,SKU-Lw191,2026-01-04,2,STORE-27,Iowa,pos_system
+97,SKU-Ii336,2025-12-26,8,STORE-6,North Dakota,pos_system
+98,SKU-eJ664,2026-01-16,7,STORE-36,Kansas,pos_system
+99,SKU-AJ723,2026-01-04,8,STORE-39,West Virginia,pos_system
+100,SKU-ms236,2026-01-03,9,STORE-3,Delaware,pos_system
+101,SKU-AJ723,2026-01-15,2,STORE-24,Pennsylvania,pos_system
+102,SKU-JZ195,2025-12-26,7,STORE-2,Mississippi,pos_system
+103,SKU-SM033,2026-01-05,5,STORE-12,North Carolina,pos_system
+104,SKU-SM033,2026-01-03,5,STORE-20,Wisconsin,pos_system
+105,SKU-gw737,2025-12-28,9,STORE-35,New York,pos_system
+106,SKU-Gq397,2025-12-28,13,STORE-30,Maryland,pos_system
+107,SKU-jM908,2026-01-06,12,STORE-50,Florida,pos_system
+108,SKU-FW876,2026-01-04,9,STORE-5,Nebraska,pos_system
+109,SKU-dm706,2025-12-27,13,STORE-2,Virginia,pos_system
+110,SKU-cW269,2025-12-23,1,STORE-38,California,pos_system
+111,SKU-HE021,2026-01-06,11,STORE-8,Louisiana,pos_system
+112,SKU-DX100,2026-01-16,2,STORE-16,North Dakota,pos_system
+113,SKU-fj578,2026-01-19,5,STORE-16,Maryland,pos_system
+114,SKU-INVALID,2025-12-27,6,STORE-47,Iowa,pos_system
+115,SKU-rT045,2025-12-25,6,STORE-39,Florida,pos_system
+116,SKU-cW269,2026-01-07,7,STORE-41,Kansas,pos_system
+117,SKU-cm125,2025-12-27,15,STORE-40,South Dakota,pos_system
+118,SKU-uE392,2025-12-29,9,STORE-32,North Dakota,pos_system
+119,SKU-Os099,2026-01-12,6,STORE-25,Louisiana,pos_system
+120,SKU-DX100,2026-01-15,13,STORE-23,Pennsylvania,pos_system
+121,SKU-jM908,2026-01-04,11,STORE-21,Indiana,pos_system
+122,SKU-oE096,2026-01-16,3,STORE-30,Alabama,pos_system
+123,SKU-ms236,2026-01-14,7,STORE-14,Tennessee,pos_system
+124,SKU-Cs979,2025-12-26,5,STORE-49,West Virginia,pos_system
+125,SKU-TI299,2025-12-27,7,STORE-32,Oklahoma,pos_system
+126,SKU-My271,2026-01-04,15,STORE-7,Alabama,pos_system
+127,SKU-gw737,2026-01-20,1,STORE-9,Missouri,pos_system
+128,SKU-Cw787,2026-01-04,1,STORE-1,Connecticut,pos_system
+129,SKU-gw737,2025-12-31,4,STORE-23,Arizona,pos_system
+130,SKU-SM033,2025-12-24,11,STORE-21,Utah,pos_system
+131,SKU-lK201,2026-01-01,2,STORE-40,Minnesota,pos_system
+132,SKU-Vj640,2026-01-06,10,STORE-8,New Mexico,pos_system
+133,SKU-aC385,2025-12-30,7,STORE-49,Ohio,pos_system
+134,SKU-bc680,2026-01-03,4,STORE-15,North Dakota,pos_system
+135,SKU-SB850,2026-01-20,5,STORE-33,Texas,pos_system
+136,SKU-SB850,2025-12-31,5,STORE-43,Oregon,pos_system
+137,SKU-EZ203,2025-12-25,5,STORE-1,New Jersey,pos_system
+138,SKU-Kd135,2025-12-24,15,STORE-20,Connecticut,pos_system
+139,SKU-Kd135,2026-01-09,10,STORE-20,North Carolina,pos_system
+140,SKU-DX100,2026-01-19,9,STORE-37,South Carolina,pos_system
+141,SKU-Os099,2026-01-21,3,STORE-1,Pennsylvania,pos_system
+142,SKU-Kz406,2026-01-12,14,STORE-29,Vermont,pos_system
+143,SKU-Os099,2026-01-18,12,STORE-22,Iowa,pos_system
+144,SKU-FW876,2026-01-19,13,STORE-8,Arkansas,pos_system
+145,SKU-eJ664,2026-01-21,9,STORE-16,California,pos_system
+146,SKU-Tt192,2026-01-13,2,STORE-43,Virginia,pos_system
+147,SKU-Kl808,2025-12-24,15,STORE-32,Oregon,pos_system
+148,SKU-rT045,2025-12-30,1,STORE-32,Tennessee,pos_system
+149,SKU-Kz406,2026-01-02,14,STORE-36,Georgia,pos_system
+150,SKU-INVALID,2025-12-28,6,STORE-22,Florida,pos_system
+151,SKU-Cs979,2025-12-28,11,STORE-47,South Dakota,pos_system
+152,SKU-Gw555,2026-01-20,3,STORE-23,Arizona,pos_system
+153,SKU-eJ664,2026-01-21,13,STORE-21,Georgia,pos_system
+154,SKU-gw737,2025-12-30,11,STORE-7,Maine,pos_system
+155,SKU-dm706,2025-12-29,2,STORE-30,Oregon,pos_system
+156,SKU-Cs979,2026-01-19,5,STORE-6,Connecticut,pos_system
+157,SKU-Gq397,2026-01-08,10,STORE-37,New Hampshire,pos_system
+158,SKU-cW269,2026-01-05,9,STORE-44,Connecticut,pos_system
+159,SKU-Kl808,2026-01-12,13,STORE-15,Kentucky,pos_system
+160,SKU-aC385,2026-01-09,15,STORE-19,Utah,pos_system
+161,SKU-sS478,2026-01-15,5,STORE-30,Nevada,pos_system
+162,SKU-fj578,2025-12-27,9,STORE-10,Montana,pos_system
+163,SKU-sS478,2026-01-19,8,STORE-49,Arkansas,pos_system
+164,SKU-gw737,2026-01-10,7,STORE-39,Missouri,pos_system
+165,SKU-Gw555,2025-12-25,8,STORE-22,Minnesota,pos_system
+166,SKU-Tt192,2026-01-03,4,STORE-25,South Dakota,pos_system
+167,SKU-RI926,2026-01-02,6,STORE-21,Nevada,pos_system
+168,SKU-My271,2025-12-25,14,STORE-40,Oklahoma,pos_system
+169,SKU-aC385,2025-12-29,1,STORE-14,Louisiana,pos_system
+170,SKU-JZ195,2026-01-08,8,STORE-46,Rhode Island,pos_system
+171,SKU-ms236,2026-01-09,15,STORE-8,California,pos_system
+172,SKU-HE021,2026-01-04,14,STORE-47,Idaho,pos_system
+173,SKU-DX100,2026-01-21,6,STORE-13,Kentucky,pos_system
+174,SKU-Tt192,2026-01-14,3,STORE-32,Alabama,pos_system
+175,SKU-sS478,2025-12-25,14,STORE-18,Nebraska,pos_system
+176,SKU-EZ203,2025-12-30,8,STORE-12,Iowa,pos_system
+177,SKU-ir862,2025-12-31,14,STORE-35,California,pos_system
+178,SKU-Tt192,2026-01-12,3,STORE-2,Arizona,pos_system
+179,SKU-zo215,2025-12-23,4,STORE-12,Georgia,pos_system
+180,SKU-DX100,2025-12-25,12,STORE-9,Maine,pos_system
+181,SKU-Om880,2026-01-06,9,STORE-29,New Jersey,pos_system
+182,SKU-zo215,2026-01-02,14,STORE-10,Rhode Island,pos_system
+183,SKU-oE096,2025-12-27,4,STORE-17,Vermont,pos_system
+184,SKU-eJ664,2025-12-24,2,STORE-5,Utah,pos_system
+185,SKU-HE021,2026-01-12,9,STORE-20,Nevada,pos_system
+186,SKU-TI299,2025-12-25,12,STORE-41,Texas,pos_system
+187,SKU-Vj640,2026-01-09,4,STORE-17,Louisiana,pos_system
+188,SKU-HE021,2026-01-16,8,STORE-27,Louisiana,pos_system
+189,SKU-EZ203,2025-12-24,9,STORE-29,New Jersey,pos_system
+190,SKU-OE374,2025-12-24,12,STORE-11,New Hampshire,pos_system
+191,SKU-OK386,2026-01-04,1,STORE-15,California,pos_system
+192,SKU-dm706,2026-01-12,13,STORE-14,Alaska,pos_system
+193,SKU-Om880,2025-12-25,7,STORE-39,Tennessee,pos_system
+194,SKU-sS478,2026-01-18,6,STORE-48,Vermont,pos_system
+195,SKU-Kd135,2026-01-18,9,STORE-40,Oregon,pos_system
+196,SKU-xo650,2026-01-20,14,STORE-7,Arkansas,pos_system
+197,SKU-Cw787,2026-01-17,12,STORE-26,Arizona,pos_system
+198,SKU-bH250,2026-01-12,13,STORE-45,California,pos_system
+199,SKU-sS478,2025-12-28,12,STORE-43,Colorado,pos_system
+200,SKU-HE021,2025-12-24,2,STORE-50,New Hampshire,pos_system
+201,SKU-ms236,2026-01-11,7,STORE-22,New Mexico,pos_system
+202,SKU-RI926,2026-01-21,6,STORE-8,Louisiana,pos_system
+203,SKU-cW269,2025-12-26,10,STORE-30,Virginia,pos_system
+204,SKU-jM908,2026-01-10,2,STORE-28,Arkansas,pos_system
+205,SKU-DX100,2026-01-17,9,STORE-22,Iowa,pos_system
+206,SKU-RI926,2025-12-23,8,STORE-15,Kentucky,pos_system
+207,SKU-ir862,2026-01-21,6,STORE-2,New Hampshire,pos_system
+208,SKU-eJ664,2026-01-05,4,STORE-20,New Hampshire,pos_system
+209,SKU-xo650,2025-12-30,12,STORE-3,Wisconsin,pos_system
+210,SKU-Ii336,2026-01-08,11,STORE-28,Georgia,pos_system
+211,SKU-EZ203,2025-12-27,9,STORE-44,Indiana,pos_system
+212,SKU-Cw787,2026-01-17,5,STORE-21,Virginia,pos_system
+213,SKU-JZ195,2026-01-11,12,STORE-50,Maine,pos_system
+214,SKU-jM908,2026-01-18,6,STORE-3,Arkansas,pos_system
+215,SKU-Gw555,2025-12-28,13,STORE-18,Wyoming,pos_system
+216,SKU-sS478,2026-01-19,8,STORE-38,Louisiana,pos_system
+217,SKU-aC385,2026-01-07,4,STORE-19,Utah,pos_system
+218,SKU-ms236,2025-12-27,15,STORE-22,Delaware,pos_system
+219,SKU-zo215,2026-01-21,13,STORE-27,West Virginia,pos_system
+220,SKU-OE374,2025-12-27,6,STORE-6,Montana,pos_system
+221,SKU-OE374,2025-12-24,7,STORE-13,Nevada,pos_system
+222,SKU-lK201,2026-01-02,4,STORE-13,Georgia,pos_system
+223,SKU-hg981,2026-01-06,6,STORE-36,New York,pos_system
+224,SKU-kJ180,2026-01-04,8,STORE-15,Idaho,pos_system
+225,SKU-cW269,2025-12-31,10,STORE-50,West Virginia,pos_system
+226,SKU-TI299,2026-01-20,3,STORE-46,Maryland,pos_system
+227,SKU-SM033,2025-12-25,1,STORE-29,Delaware,pos_system
+228,SKU-xo650,2025-12-27,9,STORE-10,Virginia,pos_system
+229,SKU-oE096,2025-12-26,11,STORE-41,South Dakota,pos_system
+230,SKU-My271,2026-01-05,6,STORE-10,Alaska,pos_system
+231,SKU-SM033,2026-01-03,3,STORE-17,Indiana,pos_system
+232,SKU-Lw191,2026-01-18,1,STORE-10,New Jersey,pos_system
+233,SKU-ir862,2026-01-01,1,STORE-6,Missouri,pos_system
+234,SKU-AJ723,2026-01-15,4,STORE-38,South Carolina,pos_system
+235,SKU-bH250,2025-12-23,10,STORE-16,Florida,pos_system
+236,SKU-Os099,2026-01-08,7,STORE-36,Illinois,pos_system
+237,SKU-Rq512,2026-01-18,14,STORE-31,North Carolina,pos_system
+238,SKU-Kz406,2026-01-20,9,STORE-8,California,pos_system
+239,SKU-gw737,2025-12-31,6,STORE-34,Delaware,pos_system
+240,SKU-bH250,2026-01-05,11,STORE-48,Massachusetts,pos_system
+241,SKU-Ii336,2025-12-29,1,STORE-42,Alabama,pos_system
+242,SKU-RI926,2026-01-04,8,STORE-16,Utah,pos_system
+243,SKU-INVALID,2025-12-23,1,STORE-11,California,pos_system
+244,SKU-SB850,2025-12-31,15,STORE-47,Illinois,pos_system
+245,SKU-EZ203,2026-01-15,4,STORE-23,Wisconsin,pos_system
+246,SKU-YT892,2025-12-23,10,STORE-38,California,pos_system
+247,SKU-Tt192,2026-01-02,9,STORE-31,South Carolina,pos_system
+248,SKU-ms236,2025-12-28,10,STORE-47,Georgia,pos_system
+249,SKU-DX100,2025-12-26,13,STORE-34,Delaware,pos_system
+250,SKU-My271,2025-12-29,6,STORE-13,Virginia,pos_system
+251,SKU-SB850,2026-01-01,7,STORE-16,South Dakota,pos_system
+252,SKU-rT045,2025-12-27,15,STORE-4,Florida,pos_system
+253,SKU-kJ180,2025-12-27,10,STORE-41,Nevada,pos_system
+254,SKU-Rq512,2025-12-30,1,STORE-18,Arizona,pos_system
+255,SKU-hg981,2026-01-04,5,STORE-43,Utah,pos_system
+256,SKU-Gw555,2026-01-03,4,STORE-8,Tennessee,pos_system
+257,SKU-Om880,2026-01-07,12,STORE-46,California,pos_system
+258,SKU-jM908,2026-01-03,12,STORE-28,Idaho,pos_system
+259,SKU-Ii336,2026-01-05,13,STORE-46,Arkansas,pos_system
+260,SKU-Kl808,2026-01-16,12,STORE-39,North Dakota,pos_system
+261,SKU-dm706,2026-01-13,2,STORE-37,Nevada,pos_system
+262,SKU-dm706,2025-12-26,1,STORE-40,Oklahoma,pos_system
+263,SKU-EZ203,2025-12-30,1,STORE-4,New Mexico,pos_system
+264,SKU-aC385,2026-01-14,7,STORE-8,Iowa,pos_system
+265,SKU-DX100,2026-01-06,7,STORE-32,Indiana,pos_system
+266,SKU-dm706,2026-01-16,15,STORE-16,Missouri,pos_system
+267,SKU-OE374,2025-12-31,13,STORE-11,Texas,pos_system
+268,SKU-eJ664,2025-12-27,8,STORE-50,Massachusetts,pos_system
+269,SKU-Vj640,2026-01-08,14,STORE-40,Alabama,pos_system
+270,SKU-fj578,2025-12-27,8,STORE-2,Iowa,pos_system
+271,SKU-Kl808,2025-12-26,11,STORE-20,Nevada,pos_system
+272,SKU-xo650,2025-12-25,9,STORE-11,Hawaii,pos_system
+273,SKU-Rq512,2025-12-25,6,STORE-13,Iowa,pos_system
+274,SKU-Rq512,2026-01-12,3,STORE-6,Maryland,pos_system
+275,SKU-Gq397,2026-01-17,15,STORE-46,Connecticut,pos_system
+276,SKU-RI926,2026-01-20,2,STORE-50,South Carolina,pos_system
+277,SKU-OK386,2026-01-14,2,STORE-20,New Mexico,pos_system
+278,SKU-FW876,2026-01-15,15,STORE-36,Colorado,pos_system
+279,SKU-Cw787,2026-01-03,1,STORE-24,Alaska,pos_system
+280,SKU-Kd135,2026-01-10,12,STORE-37,South Carolina,pos_system
+281,SKU-Ii336,2025-12-31,5,STORE-12,Texas,pos_system
+282,SKU-jM908,2026-01-07,13,STORE-18,Nevada,pos_system
+283,SKU-Gw555,2026-01-01,8,STORE-35,New Hampshire,pos_system
+284,SKU-OE374,2026-01-19,4,STORE-46,Michigan,pos_system
+285,SKU-Ii336,2026-01-19,15,STORE-30,Florida,pos_system
+286,SKU-RI926,2026-01-13,13,STORE-36,Kansas,pos_system
+287,SKU-Os099,2026-01-21,6,STORE-26,Indiana,pos_system
+288,SKU-ms236,2026-01-18,3,STORE-15,Vermont,pos_system
+289,SKU-Gw555,2026-01-21,4,STORE-34,Wyoming,pos_system
+290,SKU-EZ203,2025-12-29,1,STORE-17,Missouri,pos_system
+291,SKU-My271,2026-01-11,11,STORE-35,Florida,pos_system
+292,SKU-cm125,2026-01-04,8,STORE-36,South Dakota,pos_system
+293,SKU-INVALID,2025-12-27,4,STORE-48,Idaho,pos_system
+294,SKU-Rq512,2026-01-03,12,STORE-50,South Dakota,pos_system
+295,SKU-SM033,2025-12-29,13,STORE-11,New Hampshire,pos_system
+296,SKU-cm125,2025-12-29,1,STORE-2,Maryland,pos_system
+297,SKU-Os099,2026-01-06,6,STORE-32,Kentucky,pos_system
+298,SKU-bH250,2025-12-30,5,STORE-49,Indiana,pos_system
+299,SKU-Om880,2026-01-13,15,STORE-10,Texas,pos_system
+300,SKU-jM908,2026-01-07,11,STORE-14,Delaware,pos_system
+301,SKU-Cw787,2026-01-21,14,STORE-7,New Jersey,pos_system
+302,SKU-INVALID,2025-12-27,3,STORE-1,Idaho,pos_system
+303,SKU-Kd135,2025-12-29,15,STORE-28,Minnesota,pos_system
+304,SKU-SB850,2026-01-09,3,STORE-23,Tennessee,pos_system
+305,SKU-Rq512,2026-01-20,1,STORE-39,Georgia,pos_system
+306,SKU-kJ180,2025-12-28,14,STORE-6,Kentucky,pos_system
+307,SKU-cm125,2026-01-21,8,STORE-30,Florida,pos_system
+308,SKU-lK201,2025-12-28,4,STORE-3,Colorado,pos_system
+309,SKU-Os099,2025-12-24,1,STORE-41,Ohio,pos_system
+310,SKU-DX100,2025-12-30,11,STORE-39,Maryland,pos_system
+311,SKU-JZ195,2026-01-16,12,STORE-33,Texas,pos_system
+312,SKU-DX100,2025-12-24,1,STORE-7,West Virginia,pos_system
+313,SKU-ms236,2026-01-15,10,STORE-22,Arkansas,pos_system
+314,SKU-RI926,2025-12-30,1,STORE-40,Massachusetts,pos_system
+315,SKU-EZ203,2025-12-25,12,STORE-32,Colorado,pos_system
+316,SKU-Kd135,2025-12-27,7,STORE-26,Massachusetts,pos_system
+317,SKU-kJ180,2025-12-28,14,STORE-26,Nebraska,pos_system
+318,SKU-SM033,2026-01-09,3,STORE-39,New York,pos_system
+319,SKU-Gw555,2025-12-27,3,STORE-49,Iowa,pos_system
+320,SKU-DX100,2026-01-02,14,STORE-27,Delaware,pos_system
+321,SKU-eJ664,2026-01-04,5,STORE-17,Wyoming,pos_system
+322,SKU-fj578,2025-12-23,5,STORE-43,Maryland,pos_system
+323,SKU-kJ180,2025-12-30,6,STORE-33,South Carolina,pos_system
+324,SKU-rT045,2026-01-20,10,STORE-49,Minnesota,pos_system
+325,SKU-JZ195,2025-12-31,13,STORE-12,South Dakota,pos_system
+326,SKU-DX100,2025-12-31,6,STORE-1,Oregon,pos_system
+327,SKU-YT892,2025-12-29,6,STORE-29,Oregon,pos_system
+328,SKU-fj578,2026-01-20,3,STORE-43,Nevada,pos_system
+329,SKU-gw737,2026-01-07,4,STORE-1,North Dakota,pos_system
+330,SKU-Kd135,2025-12-27,10,STORE-10,West Virginia,pos_system
+331,SKU-sS478,2026-01-08,6,STORE-39,Colorado,pos_system
+332,SKU-Cw787,2025-12-30,12,STORE-9,Minnesota,pos_system
+333,SKU-Os099,2026-01-06,13,STORE-25,New Hampshire,pos_system
+334,SKU-cW269,2026-01-20,5,STORE-22,Oklahoma,pos_system
+335,SKU-gw737,2026-01-10,15,STORE-34,Massachusetts,pos_system
+336,SKU-xo650,2025-12-31,10,STORE-3,Pennsylvania,pos_system
+337,SKU-YT892,2026-01-07,7,STORE-2,Iowa,pos_system
+338,SKU-SB850,2026-01-21,11,STORE-44,Utah,pos_system
+339,SKU-Kz406,2026-01-02,15,STORE-10,West Virginia,pos_system
+340,SKU-DX100,2026-01-15,12,STORE-16,Alabama,pos_system
+341,SKU-jM908,2026-01-19,6,STORE-26,South Carolina,pos_system
+342,SKU-ms236,2026-01-13,11,STORE-46,Oklahoma,pos_system
+343,SKU-Ii336,2026-01-09,13,STORE-45,Texas,pos_system
+344,SKU-eJ664,2026-01-10,15,STORE-50,Tennessee,pos_system
+345,SKU-YT892,2026-01-20,10,STORE-21,Illinois,pos_system
+346,SKU-DX100,2026-01-01,12,STORE-16,Mississippi,pos_system
+347,SKU-JZ195,2025-12-30,14,STORE-6,West Virginia,pos_system
+348,SKU-sS478,2026-01-13,14,STORE-36,Nevada,pos_system
+349,SKU-OE374,2026-01-17,7,STORE-28,North Carolina,pos_system
+350,SKU-sS478,2026-01-06,12,STORE-32,Missouri,pos_system
+351,SKU-bD403,2025-12-24,15,STORE-21,Kansas,pos_system
+352,SKU-lK201,2026-01-19,4,STORE-44,Connecticut,pos_system
+353,SKU-cm125,2026-01-08,4,STORE-47,Hawaii,pos_system
+354,SKU-Kd135,2026-01-16,9,STORE-8,Louisiana,pos_system
+355,SKU-Gw555,2026-01-19,10,STORE-12,Arizona,pos_system
+356,SKU-HE021,2025-12-31,7,STORE-13,Pennsylvania,pos_system
+357,SKU-ir862,2026-01-10,2,STORE-46,Missouri,pos_system
+358,SKU-Om880,2026-01-18,9,STORE-49,South Dakota,pos_system
+359,SKU-uE392,2026-01-14,6,STORE-35,Arkansas,pos_system
+360,SKU-Lw191,2026-01-17,9,STORE-11,Delaware,pos_system
+361,SKU-Kl808,2026-01-01,7,STORE-17,North Dakota,pos_system
+362,SKU-My271,2025-12-26,9,STORE-49,Arkansas,pos_system
+363,SKU-TI299,2026-01-16,13,STORE-48,New York,pos_system
+364,SKU-Tt192,2026-01-04,12,STORE-41,New York,pos_system
+365,SKU-Cw787,2026-01-21,2,STORE-2,Maryland,pos_system
+366,SKU-kJ180,2026-01-17,15,STORE-46,Arkansas,pos_system
+367,SKU-FW876,2025-12-31,5,STORE-3,Georgia,pos_system
+368,SKU-uE392,2025-12-27,7,STORE-39,Pennsylvania,pos_system
+369,SKU-OK386,2026-01-07,6,STORE-39,Kentucky,pos_system
+370,SKU-eJ664,2026-01-21,7,STORE-33,Utah,pos_system
+371,SKU-Gw555,2026-01-17,3,STORE-16,South Dakota,pos_system
+372,SKU-EZ203,2026-01-08,9,STORE-33,Pennsylvania,pos_system
+373,SKU-EZ203,2026-01-10,10,STORE-6,North Dakota,pos_system
+374,SKU-HE021,2026-01-05,6,STORE-48,Georgia,pos_system
+375,SKU-eJ664,2026-01-21,10,STORE-23,Kansas,pos_system
+376,SKU-lK201,2026-01-14,1,STORE-32,Maine,pos_system
+377,SKU-lK201,2026-01-03,4,STORE-9,Rhode Island,pos_system
+378,SKU-Tt192,2026-01-18,10,STORE-6,South Carolina,pos_system
+379,SKU-AJ723,2026-01-02,15,STORE-27,Georgia,pos_system
+380,SKU-sS478,2025-12-25,14,STORE-14,Vermont,pos_system
+381,SKU-Kz406,2026-01-04,12,STORE-24,Florida,pos_system
+382,SKU-Lw191,2026-01-03,4,STORE-28,Virginia,pos_system
+383,SKU-SB850,2026-01-09,6,STORE-6,Iowa,pos_system
+384,SKU-bH250,2026-01-03,8,STORE-45,Nebraska,pos_system
+385,SKU-INVALID,2026-01-13,15,STORE-29,Alaska,pos_system
+386,SKU-cW269,2025-12-30,12,STORE-20,New Mexico,pos_system
+387,SKU-Rq512,2025-12-26,3,STORE-4,Pennsylvania,pos_system
+388,SKU-aC385,2026-01-01,10,STORE-29,New York,pos_system
+389,SKU-bD403,2026-01-09,2,STORE-44,Oregon,pos_system
+390,SKU-oE096,2025-12-24,3,STORE-10,Arkansas,pos_system
+391,SKU-Cs979,2026-01-16,6,STORE-21,Virginia,pos_system
+392,SKU-gw737,2026-01-15,14,STORE-33,South Carolina,pos_system
+393,SKU-YT892,2025-12-29,7,STORE-6,West Virginia,pos_system
+394,SKU-fj578,2026-01-19,10,STORE-3,Florida,pos_system
+395,SKU-dm706,2026-01-09,14,STORE-35,Idaho,pos_system
+396,SKU-HE021,2026-01-06,12,STORE-32,Ohio,pos_system
+397,SKU-My271,2026-01-06,13,STORE-33,Kansas,pos_system
+398,SKU-gw737,2025-12-30,8,STORE-2,Maryland,pos_system
+399,SKU-Kz406,2025-12-31,15,STORE-15,Massachusetts,pos_system
+400,SKU-Vj640,2026-01-14,8,STORE-31,Colorado,pos_system
+401,SKU-bD403,2026-01-10,4,STORE-36,Montana,pos_system
+402,SKU-sS478,2025-12-26,13,STORE-23,Pennsylvania,pos_system
+403,SKU-kJ180,2026-01-12,8,STORE-16,Montana,pos_system
+404,SKU-Ii336,2025-12-28,9,STORE-43,Virginia,pos_system
+405,SKU-SB850,2026-01-15,6,STORE-46,Vermont,pos_system
+406,SKU-Lw191,2026-01-11,11,STORE-23,Mississippi,pos_system
+407,SKU-bH250,2026-01-17,6,STORE-21,Kansas,pos_system
+408,SKU-SB850,2026-01-12,8,STORE-28,Virginia,pos_system
+409,SKU-cW269,2026-01-09,12,STORE-30,Maryland,pos_system
+410,SKU-bH250,2025-12-24,14,STORE-31,Georgia,pos_system
+411,SKU-AJ723,2026-01-16,10,STORE-17,Indiana,pos_system
+412,SKU-oE096,2026-01-16,13,STORE-2,Montana,pos_system
+413,SKU-RI926,2025-12-26,10,STORE-29,Colorado,pos_system
+414,SKU-EZ203,2026-01-17,1,STORE-22,Utah,pos_system
+415,SKU-ms236,2026-01-04,2,STORE-14,Kentucky,pos_system
+416,SKU-Os099,2026-01-10,2,STORE-6,West Virginia,pos_system
+417,SKU-cm125,2026-01-14,2,STORE-29,Idaho,pos_system
+418,SKU-Tt192,2026-01-15,8,STORE-42,Hawaii,pos_system
+419,SKU-DX100,2026-01-03,12,STORE-36,Tennessee,pos_system
+420,SKU-TI299,2026-01-14,1,STORE-30,Hawaii,pos_system
+421,SKU-Vj640,2026-01-19,13,STORE-45,South Dakota,pos_system
+422,SKU-OE374,2026-01-16,12,STORE-46,North Carolina,pos_system
+423,SKU-Gq397,2025-12-24,1,STORE-28,Pennsylvania,pos_system
+424,SKU-Rq512,2025-12-24,11,STORE-13,Maine,pos_system
+425,SKU-Lw191,2026-01-06,5,STORE-37,Texas,pos_system
+426,SKU-hg981,2026-01-17,1,STORE-50,Alaska,pos_system
+427,SKU-Kl808,2026-01-18,14,STORE-40,Colorado,pos_system
+428,SKU-Vj640,2025-12-24,7,STORE-47,Indiana,pos_system
+429,SKU-AJ723,2025-12-27,10,STORE-29,Arkansas,pos_system
+430,SKU-sS478,2026-01-10,11,STORE-10,Florida,pos_system
+431,SKU-Vj640,2025-12-25,15,STORE-29,Nebraska,pos_system
+432,SKU-FW876,2026-01-19,7,STORE-5,Rhode Island,pos_system
+433,SKU-xo650,2025-12-31,9,STORE-22,Georgia,pos_system
+434,SKU-ir862,2026-01-04,4,STORE-16,New Hampshire,pos_system
+435,SKU-INVALID,2025-12-30,5,STORE-35,Oklahoma,pos_system
+436,SKU-oE096,2026-01-21,3,STORE-14,Mississippi,pos_system
+437,SKU-Kz406,2025-12-30,1,STORE-23,Pennsylvania,pos_system
+438,SKU-Gw555,2026-01-14,2,STORE-26,Arkansas,pos_system
+439,SKU-AJ723,2025-12-30,4,STORE-4,North Carolina,pos_system
+440,SKU-aC385,2026-01-18,7,STORE-3,Indiana,pos_system
+441,SKU-Kl808,2025-12-23,4,STORE-35,Maryland,pos_system
+442,SKU-Cs979,2026-01-16,13,STORE-27,Colorado,pos_system
+443,SKU-bc680,2025-12-31,13,STORE-20,Michigan,pos_system
+444,SKU-fj578,2025-12-23,1,STORE-9,Illinois,pos_system
+445,SKU-INVALID,2026-01-02,13,STORE-30,Wyoming,pos_system
+446,SKU-uE392,2025-12-30,14,STORE-30,Vermont,pos_system
+447,SKU-Om880,2026-01-04,8,STORE-24,Florida,pos_system
+448,SKU-Os099,2026-01-12,7,STORE-36,Ohio,pos_system
+449,SKU-oE096,2026-01-10,1,STORE-21,South Carolina,pos_system
+450,SKU-Ii336,2026-01-06,11,STORE-8,Missouri,pos_system
+451,SKU-oE096,2026-01-10,1,STORE-22,Arizona,pos_system
+452,SKU-Kd135,2026-01-04,11,STORE-21,Wisconsin,pos_system
+453,SKU-My271,2026-01-20,14,STORE-9,Florida,pos_system
+454,SKU-eJ664,2026-01-06,15,STORE-27,Wisconsin,pos_system
+455,SKU-FW876,2026-01-08,6,STORE-30,Wyoming,pos_system
+456,SKU-Tt192,2025-12-27,14,STORE-1,West Virginia,pos_system
+457,SKU-rT045,2026-01-19,10,STORE-21,Alabama,pos_system
+458,SKU-Gw555,2026-01-16,10,STORE-29,New Jersey,pos_system
+459,SKU-FW876,2026-01-02,5,STORE-13,Virginia,pos_system
+460,SKU-xo650,2025-12-31,5,STORE-49,Ohio,pos_system
+461,SKU-zo215,2026-01-02,6,STORE-11,Alabama,pos_system
+462,SKU-jM908,2026-01-04,11,STORE-12,Arizona,pos_system
+463,SKU-xo650,2026-01-09,5,STORE-35,Illinois,pos_system
+464,SKU-JZ195,2026-01-05,12,STORE-3,Washington,pos_system
+465,SKU-JZ195,2026-01-05,3,STORE-5,Wyoming,pos_system
+466,SKU-Gw555,2026-01-12,7,STORE-23,Connecticut,pos_system
+467,SKU-zo215,2026-01-06,9,STORE-18,Georgia,pos_system
+468,SKU-xo650,2025-12-26,13,STORE-4,Wisconsin,pos_system
+469,SKU-DX100,2025-12-29,10,STORE-29,Hawaii,pos_system
+470,SKU-rT045,2026-01-11,1,STORE-29,New Jersey,pos_system
+471,SKU-Tt192,2026-01-02,2,STORE-12,Oklahoma,pos_system
+472,SKU-cW269,2026-01-07,1,STORE-6,Massachusetts,pos_system
+473,SKU-YT892,2025-12-27,8,STORE-16,Georgia,pos_system
+474,SKU-JZ195,2025-12-26,1,STORE-47,Nebraska,pos_system
+475,SKU-Rq512,2025-12-27,4,STORE-32,Tennessee,pos_system
+476,SKU-TI299,2026-01-06,7,STORE-41,Nebraska,pos_system
+477,SKU-bc680,2026-01-21,3,STORE-38,New York,pos_system
+478,SKU-Om880,2026-01-02,10,STORE-40,Massachusetts,pos_system
+479,SKU-Om880,2026-01-11,2,STORE-29,Ohio,pos_system
+480,SKU-FW876,2026-01-12,4,STORE-21,Mississippi,pos_system
+481,SKU-Ii336,2026-01-20,12,STORE-16,Michigan,pos_system
+482,SKU-cm125,2026-01-18,8,STORE-17,Georgia,pos_system
+483,SKU-HE021,2026-01-03,10,STORE-49,New Mexico,pos_system
+484,SKU-JZ195,2026-01-03,6,STORE-33,Kansas,pos_system
+485,SKU-OK386,2026-01-07,9,STORE-25,Nevada,pos_system
+486,SKU-cW269,2026-01-13,15,STORE-6,Wyoming,pos_system
+487,SKU-DX100,2026-01-18,9,STORE-12,South Dakota,pos_system
+488,SKU-Rq512,2026-01-19,5,STORE-36,Mississippi,pos_system
+489,SKU-Ii336,2025-12-25,7,STORE-32,Washington,pos_system
+490,SKU-gw737,2025-12-28,5,STORE-48,Colorado,pos_system
+491,SKU-eJ664,2025-12-27,3,STORE-49,Mississippi,pos_system
+492,SKU-OE374,2026-01-01,6,STORE-33,Kansas,pos_system
+493,SKU-DX100,2025-12-29,10,STORE-10,Wisconsin,pos_system
+494,SKU-Rq512,2026-01-04,8,STORE-42,Oregon,pos_system
+495,SKU-JZ195,2026-01-12,12,STORE-47,Georgia,pos_system
+496,SKU-uE392,2026-01-18,1,STORE-35,Oregon,pos_system
+497,SKU-zo215,2026-01-20,7,STORE-18,North Carolina,pos_system
+498,SKU-xo650,2026-01-12,11,STORE-35,Hawaii,pos_system
+499,SKU-Kd135,2026-01-05,5,STORE-32,Florida,pos_system
+500,SKU-rT045,2026-01-14,10,STORE-42,New Jersey,pos_system

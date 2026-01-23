@@ -1,0 +1,8 @@
+from enum import Enum
+
+class Intent(str, Enum):
+    SALES_HISTORY = "SALES_HISTORY"
+    CONSOLIDATED_INSIGHTS = "CONSOLIDATED_INSIGHTS"
+    CLEANUP = "CLEANUP"
+    GOLD_SIGNAL = "GOLD_SIGNAL"
+    UNKNOWN = "UNKNOWN"

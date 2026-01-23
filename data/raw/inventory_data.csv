@@ -1,0 +1,201 @@
+inventory_id,sku_id,stock_on_hand,warehouse,last_updated,source
+1,SKU-Vj640,179,Morganton,2026-01-16,inventory_system
+2,SKU-OE374,186,Bradshawview,2026-01-18,inventory_system
+3,SKU-zo215,192,Andrewmouth,2026-01-17,inventory_system
+4,SKU-FW876,371,Powellfort,2026-01-18,inventory_system
+5,SKU-jM908,118,South Gloria,2026-01-15,inventory_system
+6,SKU-Cs979,54,South Jessebury,2026-01-21,inventory_system
+7,SKU-YT892,401,New Sarahtown,2026-01-17,inventory_system
+8,SKU-OE374,140,Fisherview,2026-01-21,inventory_system
+9,SKU-HE021,176,Barryland,2026-01-19,inventory_system
+10,SKU-uE392,462,Lake Christinaside,2026-01-16,inventory_system
+11,SKU-SB850,309,Brownland,2026-01-19,inventory_system
+12,SKU-RI926,325,East Nicholasport,2026-01-16,inventory_system
+13,SKU-YT892,199,West Christopher,2026-01-17,inventory_system
+14,SKU-FW876,381,Hernandezberg,2026-01-18,inventory_system
+15,SKU-JZ195,199,Carriechester,2026-01-17,inventory_system
+16,SKU-eJ664,11,South Angelafurt,2026-01-16,inventory_system
+17,SKU-Rq512,390,Melissaborough,2026-01-21,inventory_system
+18,SKU-aC385,417,Lake Michelle,2026-01-15,inventory_system
+19,SKU-ms236,407,South Tracymouth,2026-01-16,inventory_system
+20,SKU-ir862,151,Katherinefort,2026-01-19,inventory_system
+21,SKU-cm125,298,Michaelhaven,2026-01-19,inventory_system
+22,SKU-xo650,349,Port Vernonburgh,2026-01-15,inventory_system
+23,SKU-Cs979,209,Micheleton,2026-01-20,inventory_system
+24,SKU-DX100,302,Charlestown,2026-01-20,inventory_system
+25,SKU-RI926,229,Danielport,2026-01-20,inventory_system
+26,SKU-ir862,246,Pamelaborough,2026-01-21,inventory_system
+27,SKU-xo650,272,Ivanland,2026-01-16,inventory_system
+28,SKU-bH250,75,Cobbview,2026-01-21,inventory_system
+29,SKU-fj578,338,Lake Cynthiamouth,2026-01-21,inventory_system
+30,SKU-YT892,20,Lake Aaronfort,2026-01-15,inventory_system
+31,SKU-Kd135,52,New Tonya,2026-01-18,inventory_system
+32,SKU-JZ195,473,South Sherry,2026-01-15,inventory_system
+33,SKU-ir862,343,Waynehaven,2026-01-17,inventory_system
+34,SKU-HE021,289,Audreychester,2026-01-16,inventory_system
+35,SKU-sS478,498,West Andrew,2026-01-18,inventory_system
+36,SKU-xo650,399,Sotomouth,2026-01-17,inventory_system
+37,SKU-YT892,473,Moorebury,2026-01-15,inventory_system
+38,SKU-Ii336,250,Denisefort,2026-01-15,inventory_system
+39,SKU-uE392,350,Ronaldbury,2026-01-21,inventory_system
+40,SKU-EZ203,150,Danielston,2026-01-15,inventory_system
+41,SKU-Om880,455,North Loriside,2026-01-17,inventory_system
+42,SKU-EZ203,366,North Danielletown,2026-01-17,inventory_system
+43,SKU-YT892,455,New Danielberg,2026-01-20,inventory_system
+44,SKU-SB850,67,New Kylietown,2026-01-17,inventory_system
+45,SKU-zo215,435,East Joannmouth,2026-01-21,inventory_system
+46,SKU-lK201,61,South Julieville,2026-01-19,inventory_system
+47,SKU-Os099,444,Baileyshire,2026-01-19,inventory_system
+48,SKU-Kd135,2,Baxterchester,2026-01-21,inventory_system
+49,SKU-SB850,354,Hollyshire,2026-01-15,inventory_system
+50,SKU-SM033,222,South Kristenland,2026-01-17,inventory_system
+51,SKU-cm125,271,Stevensonbury,2026-01-15,inventory_system
+52,SKU-JZ195,101,New Kelly,2026-01-18,inventory_system
+53,SKU-ms236,263,Timothyland,2026-01-15,inventory_system
+54,SKU-Tt192,325,West Brianmouth,2026-01-16,inventory_system
+55,SKU-SM033,24,Kimberlymouth,2026-01-20,inventory_system
+56,SKU-bH250,72,Butlerborough,2026-01-16,inventory_system
+57,SKU-uE392,385,South Matthewborough,2026-01-15,inventory_system
+58,SKU-jM908,252,Port April,2026-01-21,inventory_system
+59,SKU-Tt192,332,Dalefurt,2026-01-19,inventory_system
+60,SKU-gw737,63,South Anthony,2026-01-16,inventory_system
+61,SKU-Om880,354,Joyland,2026-01-19,inventory_system
+62,SKU-cW269,211,Clarkshire,2026-01-18,inventory_system
+63,SKU-sS478,289,Brownbury,2026-01-20,inventory_system
+64,SKU-EZ203,282,Lake Tanyamouth,2026-01-20,inventory_system
+65,SKU-SB850,75,Stephensberg,2026-01-21,inventory_system
+66,SKU-aC385,333,Gillburgh,2026-01-20,inventory_system
+67,SKU-cW269,241,North Elizabeth,2026-01-21,inventory_system
+68,SKU-OK386,490,East Julie,2026-01-18,inventory_system
+69,SKU-rT045,38,Tylerstad,2026-01-18,inventory_system
+70,SKU-hg981,350,Jaimefort,2026-01-21,inventory_system
+71,SKU-rT045,417,Kathleenmouth,2026-01-17,inventory_system
+72,SKU-TI299,286,New Pamelabury,2026-01-20,inventory_system
+73,SKU-ms236,314,East Andrewtown,2026-01-17,inventory_system
+74,SKU-cW269,481,Port Stephanie,2026-01-17,inventory_system
+75,SKU-sS478,195,South Christieville,2026-01-18,inventory_system
+76,SKU-Ii336,105,Sarahmouth,2026-01-19,inventory_system
+77,SKU-bD403,80,Williamland,2026-01-15,inventory_system
+78,SKU-ir862,449,Katrinachester,2026-01-17,inventory_system
+79,SKU-SM033,84,New Thomas,2026-01-18,inventory_system
+80,SKU-EZ203,236,Pamelaside,2026-01-20,inventory_system
+81,SKU-bD403,450,Lake Josephborough,2026-01-17,inventory_system
+82,SKU-FW876,143,East Joshuaside,2026-01-17,inventory_system
+83,SKU-Kd135,405,Hutchinsonberg,2026-01-21,inventory_system
+84,SKU-Rq512,260,East Glennhaven,2026-01-17,inventory_system
+85,SKU-YT892,169,East Williamchester,2026-01-15,inventory_system
+86,SKU-bH250,104,East Michael,2026-01-15,inventory_system
+87,SKU-TI299,181,Richardsonshire,2026-01-17,inventory_system
+88,SKU-OE374,422,Owensbury,2026-01-16,inventory_system
+89,SKU-JZ195,412,Courtneytown,2026-01-18,inventory_system
+90,SKU-Os099,18,Ashleyville,2026-01-19,inventory_system
+91,SKU-YT892,66,New Charlestown,2026-01-16,inventory_system
+92,SKU-EZ203,241,New William,2026-01-19,inventory_system
+93,SKU-Om880,139,Jensenburgh,2026-01-20,inventory_system
+94,SKU-Gw555,24,Tammymouth,2026-01-16,inventory_system
+95,SKU-cW269,500,South Donaldfort,2026-01-17,inventory_system
+96,SKU-JZ195,343,Glassview,2026-01-16,inventory_system
+97,SKU-hg981,388,North Carolyn,2026-01-20,inventory_system
+98,SKU-AJ723,94,North Ethanhaven,2026-01-16,inventory_system
+99,SKU-fj578,237,Cindystad,2026-01-16,inventory_system
+100,SKU-kJ180,273,Whitefurt,2026-01-20,inventory_system
+101,SKU-eJ664,87,Rushfurt,2026-01-18,inventory_system
+102,SKU-kJ180,140,Wilsonstad,2026-01-15,inventory_system
+103,SKU-Kl808,338,Wendyburgh,2026-01-18,inventory_system
+104,SKU-hg981,148,New David,2026-01-17,inventory_system
+105,SKU-FW876,203,New Williamton,2026-01-19,inventory_system
+106,SKU-fj578,387,Martinbury,2026-01-16,inventory_system
+107,SKU-Rq512,348,Nicolemouth,2026-01-16,inventory_system
+108,SKU-zo215,397,New Jose,2026-01-17,inventory_system
+109,SKU-Kz406,9,Whitefurt,2026-01-16,inventory_system
+110,SKU-Tt192,322,Vasquezhaven,2026-01-20,inventory_system
+111,SKU-Om880,324,West Erika,2026-01-17,inventory_system
+112,SKU-Kl808,137,New Andreastad,2026-01-15,inventory_system
+113,SKU-Kl808,377,Lake Lauraside,2026-01-21,inventory_system
+114,SKU-OE374,376,East James,2026-01-15,inventory_system
+115,SKU-ir862,17,Port Stacey,2026-01-17,inventory_system
+116,SKU-EZ203,61,Lake Andrew,2026-01-19,inventory_system
+117,SKU-HE021,257,New Gabriellatown,2026-01-16,inventory_system
+118,SKU-EZ203,202,West Audrey,2026-01-20,inventory_system
+119,SKU-OE374,27,Scottburgh,2026-01-21,inventory_system
+120,SKU-rT045,56,Jonesburgh,2026-01-19,inventory_system
+121,SKU-ir862,187,New Timothy,2026-01-17,inventory_system
+122,SKU-JZ195,318,Port Samanthaview,2026-01-17,inventory_system
+123,SKU-ms236,391,New Christopherport,2026-01-15,inventory_system
+124,SKU-eJ664,484,Colemanstad,2026-01-16,inventory_system
+125,SKU-Vj640,155,Lake Jessicaborough,2026-01-21,inventory_system
+126,SKU-HE021,31,Kennethland,2026-01-21,inventory_system
+127,SKU-SM033,227,Lake Margaretfurt,2026-01-18,inventory_system
+128,SKU-JZ195,187,New Lisamouth,2026-01-15,inventory_system
+129,SKU-SB850,335,Jensenhaven,2026-01-19,inventory_system
+130,SKU-HE021,353,Martinezmouth,2026-01-19,inventory_system
+131,SKU-cm125,1,Amandaside,2026-01-15,inventory_system
+132,SKU-YT892,409,North Kathleenstad,2026-01-19,inventory_system
+133,SKU-xo650,420,Brooksborough,2026-01-20,inventory_system
+134,SKU-bH250,190,South Nathaniel,2026-01-17,inventory_system
+135,SKU-cW269,430,South Toddville,2026-01-19,inventory_system
+136,SKU-Gq397,229,East Michaelville,2026-01-20,inventory_system
+137,SKU-fj578,416,Alexanderbury,2026-01-18,inventory_system
+138,SKU-Kd135,166,East Stacy,2026-01-19,inventory_system
+139,SKU-OE374,449,West Cynthiamouth,2026-01-17,inventory_system
+140,SKU-EZ203,444,West Amyborough,2026-01-16,inventory_system
+141,SKU-HE021,141,Phillipmouth,2026-01-19,inventory_system
+142,SKU-Rq512,290,Stephentown,2026-01-16,inventory_system
+143,SKU-hg981,180,Michaelside,2026-01-16,inventory_system
+144,SKU-YT892,18,New Louis,2026-01-17,inventory_system
+145,SKU-Lw191,276,Port Lauren,2026-01-16,inventory_system
+146,SKU-jM908,290,Loganberg,2026-01-18,inventory_system
+147,SKU-Ii336,422,South Christopherland,2026-01-15,inventory_system
+148,SKU-Vj640,418,Kimberlyborough,2026-01-19,inventory_system
+149,SKU-AJ723,124,West Alyssaburgh,2026-01-20,inventory_system
+150,SKU-SB850,25,Martinfort,2026-01-20,inventory_system
+151,SKU-hg981,322,Port Lisashire,2026-01-17,inventory_system
+152,SKU-dm706,479,Port Kimberly,2026-01-21,inventory_system
+153,SKU-Ii336,237,Melissafurt,2026-01-20,inventory_system
+154,SKU-Ii336,74,Rebeccafort,2026-01-18,inventory_system
+155,SKU-SB850,109,Justinmouth,2026-01-20,inventory_system
+156,SKU-HE021,206,Thomashaven,2026-01-15,inventory_system
+157,SKU-SB850,429,Boydside,2026-01-16,inventory_system
+158,SKU-Gw555,243,East Jamesside,2026-01-15,inventory_system
+159,SKU-gw737,328,South Tyler,2026-01-20,inventory_system
+160,SKU-RI926,420,Port Logan,2026-01-19,inventory_system
+161,SKU-sS478,189,Edwardsville,2026-01-19,inventory_system
+162,SKU-bH250,379,Phillipsport,2026-01-21,inventory_system
+163,SKU-RI926,289,Kristenville,2026-01-15,inventory_system
+164,SKU-Cs979,402,North Hollyside,2026-01-20,inventory_system
+165,SKU-ms236,237,Lawsonhaven,2026-01-18,inventory_system
+166,SKU-uE392,115,Berryfurt,2026-01-17,inventory_system
+167,SKU-ir862,488,Larsenhaven,2026-01-19,inventory_system
+168,SKU-cW269,435,West Tara,2026-01-17,inventory_system
+169,SKU-DX100,366,Lake Vincentchester,2026-01-19,inventory_system
+170,SKU-FW876,206,Caitlinberg,2026-01-15,inventory_system
+171,SKU-OK386,104,Port Amanda,2026-01-18,inventory_system
+172,SKU-JZ195,153,Marcfort,2026-01-20,inventory_system
+173,SKU-Rq512,477,East Amber,2026-01-19,inventory_system
+174,SKU-DX100,462,Johnberg,2026-01-19,inventory_system
+175,SKU-zo215,304,Lake Randy,2026-01-21,inventory_system
+176,SKU-Gq397,162,Lake Megan,2026-01-19,inventory_system
+177,SKU-Tt192,117,Port Scotthaven,2026-01-21,inventory_system
+178,SKU-SB850,470,Carrollmouth,2026-01-16,inventory_system
+179,SKU-fj578,8,Mayoberg,2026-01-20,inventory_system
+180,SKU-TI299,48,Port Aprilstad,2026-01-19,inventory_system
+181,SKU-fj578,414,West Justin,2026-01-19,inventory_system
+182,SKU-EZ203,33,Weaverland,2026-01-18,inventory_system
+183,SKU-RI926,387,Ellistown,2026-01-20,inventory_system
+184,SKU-hg981,80,Turnerhaven,2026-01-20,inventory_system
+185,SKU-Vj640,106,Wellsport,2026-01-20,inventory_system
+186,SKU-gw737,233,Millsview,2026-01-21,inventory_system
+187,SKU-YT892,337,Kylemouth,2026-01-17,inventory_system
+188,SKU-uE392,216,Port Lauraport,2026-01-15,inventory_system
+189,SKU-Gq397,168,East Stevenside,2026-01-18,inventory_system
+190,SKU-zo215,398,Mcdanielstad,2026-01-15,inventory_system
+191,SKU-My271,208,Grantland,2026-01-15,inventory_system
+192,SKU-Kl808,190,Ryanborough,2026-01-20,inventory_system
+193,SKU-uE392,9,East Johnton,2026-01-18,inventory_system
+194,SKU-gw737,343,Martinezburgh,2026-01-18,inventory_system
+195,SKU-dm706,481,East Nicholasfort,2026-01-16,inventory_system
+196,SKU-ir862,479,Allenburgh,2026-01-15,inventory_system
+197,SKU-kJ180,488,Blackstad,2026-01-21,inventory_system
+198,SKU-My271,235,South Gregorymouth,2026-01-19,inventory_system
+199,SKU-RI926,39,Jonesmouth,2026-01-15,inventory_system
+200,SKU-My271,73,Masonfurt,2026-01-19,inventory_system
