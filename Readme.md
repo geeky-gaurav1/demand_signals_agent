@@ -45,3 +45,5 @@ src/
 
 --changes did for master branch
 --feature data
+
+create table emp(id,name)
